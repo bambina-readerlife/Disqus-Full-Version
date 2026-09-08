@@ -248,4 +248,4 @@ This repository serves as the official landing page for Disqus. The software is 
 **Get the most recent version of Disqus today!**
 
 ---
-**Last updated:** 2026-09-08 14:55:52 UTC
+**Last updated:** 2026-09-08 18:23:17 UTC
